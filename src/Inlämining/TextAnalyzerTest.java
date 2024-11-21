@@ -49,5 +49,5 @@ import org.junit.jupiter.api.Test;
             assertEquals(27, analyzer.getTotalCharacters(), "Antalet tecken borde vara summan av alla tecken: 27");
         }
     }
-}
+
 
